@@ -1,6 +1,7 @@
 {
-  "name": "delightful-salk",
+  "name": "tour",
   "private": true,
+  "homepage": "https://vikash2dec.github.io/tour",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
